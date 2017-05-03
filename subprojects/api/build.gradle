@@ -3,3 +3,5 @@ apply plugin: "org.mockito.mockito-release-tools.java-library"
 dependencies {
     testCompile 'junit:junit:4.12'
 }
+
+apply from: "../../gradle/java-library.gradle"

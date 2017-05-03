@@ -1,0 +1,6 @@
+def comparePublicationsTask = tasks.getByName("comparePublications")
+def basePath = "https://bintray.com/shipkit/examples/download_file?file_path=/${project.group.replaceAll('\\.', '/')}" +
+        "/${project.name}/${releasing.previousReleaseVersion}/${project.name}-${releasing.previousReleaseVersion}"
+
+comparePublicationsTask.setPreviousVersionPomUrl(basePath + ".pom")
+comparePublicationsTask.setPreviousVersionSourcesJarUrl(basePath + "-sources.jar")
