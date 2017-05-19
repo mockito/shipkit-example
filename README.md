@@ -9,3 +9,5 @@ Imagine that you can focus on code and features while the release management, ve
 This is the goal of [Mockito Release Tools](https://github.com/mockito/mockito-release-tools) project. The project started in November 2016 and is currently in progress.
 
 "Mockito Release Tools Example" is a practical example use of [Mockito Release Tools](https://github.com/mockito/mockito-release-tools).
+
+Some new data in readme
