@@ -10,4 +10,4 @@ This is the goal of [Mockito Release Tools](https://github.com/mockito/mockito-r
 
 "Mockito Release Tools Example" is a practical example use of [Mockito Release Tools](https://github.com/mockito/mockito-release-tools).
 
-test
+Some new data in readme
