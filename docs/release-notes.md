@@ -5,19 +5,7 @@
  - Picked up new version of tools [(#29)](https://github.com/mockito/mockito-release-tools-example/pull/29)
  - make use of mockito-release-tools v0.7.5 and configure commit message [(#28)](https://github.com/mockito/mockito-release-tools-example/pull/28)
 
-### 0.15.2 (2017-04-29)
 
-* Authors: 0
-* Commits: 0
-* No notable improvements. See the commits for detailed changes.
-
-### 0.15.1 (2017-04-23)
-
-* Authors: 1
-* Commits: 9
-  * 9: [Szczepan Faber](https://github.com/szczepiq)
-* Improvements: 1
-  * Pulled new version of tools [(#27)](https://github.com/mockito/mockito-release-tools-example/pull/27)
 
 ### 0.15.0 (2017-04-11)
 
