@@ -16,6 +16,7 @@ releasing {
     git.commitMessagePostfix = buildNo? " by CI build $buildNo [ci skip-release]" : " [ci skip-release]"
 
     releaseNotes.file = "docs/release-notes.md"
+    releaseNotes.ignoreCommitsContaining = ["[ci skip]"]
     releaseNotes.notableFile = "docs/notable-release-notes.md"
     releaseNotes.labelMapping = ["noteworthy": "Noteworthy", "bugfix": "Bugfixes"]
 
