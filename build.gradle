@@ -17,5 +17,5 @@ allprojects {
     group = "org.mockito.release-tools-example"
 }
 
+apply plugin: "org.mockito.mockito-release-tools.continuous-delivery"
 apply from: "gradle/ide.gradle"
-apply from: "gradle/release.gradle"
