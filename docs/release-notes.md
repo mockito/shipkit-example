@@ -2,6 +2,7 @@
  - No pull requests referenced in commit messages.
 
 
+
 **0.15.3** - [20 commits](https://github.com/mockito/mockito-release-tools-example/compare/v0.15.2...v0.15.3) by Mockito Release Tools - *2017-05-25* - published to [examples/basic](https://bintray.com/shipkit/examples/basic)
  - Bumped version of tools [(#37)](https://github.com/mockito/mockito-release-tools-example/pull/37)
  - Bump release tools version to 0.8.32 [(#35)](https://github.com/mockito/mockito-release-tools-example/pull/35)
