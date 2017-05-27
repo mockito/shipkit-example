@@ -1,6 +1,6 @@
-**0.15.5** - no code changes (no commits) - *2017-05-25* - published to [examples/basic](https://bintray.com/shipkit/examples/basic)
+**0.15.5** - [2 commits](https://github.com/mockito/mockito-release-tools-example/compare/v0.15.4...v0.15.5) by mkuster - *2017-05-27* - published to [![Bintray](https://img.shields.io/badge/Bintray-0.15.5-green.svg)][examples/basic](https://bintray.com/shipkit/examples/basic)/0.15.5
+ - No pull requests referenced in commit messages.
 
-**0.15.4** - no code changes (no commits) - *2017-05-25* - published to [examples/basic](https://bintray.com/shipkit/examples/basic)
 
 **0.15.3** - [20 commits](https://github.com/mockito/mockito-release-tools-example/compare/v0.15.2...v0.15.3) by Mockito Release Tools - *2017-05-25* - published to [examples/basic](https://bintray.com/shipkit/examples/basic)
  - Bumped version of tools [(#37)](https://github.com/mockito/mockito-release-tools-example/pull/37)
