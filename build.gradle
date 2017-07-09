@@ -18,6 +18,6 @@ allprojects {
 }
 
 apply plugin: "org.shipkit.java"
-apply plugin: "org.shipkit.auto-update-consumer"
+apply plugin: "org.shipkit.version-upgrade-consumer"
 
 apply from: "gradle/ide.gradle"
