@@ -25,4 +25,4 @@ install:
  - true
 
 script:
-  - ./gradlew build -s && ./gradlew ciPerformRelease -s
+  - ./gradlew build && ./gradlew ciPerformRelease

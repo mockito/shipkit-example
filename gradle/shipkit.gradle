@@ -1,20 +1,27 @@
 shipkit {
-    gitHub.repository = "mockito/shipkit-example"
-    gitHub.readOnlyAuthToken = "e7fe8fcdd6ffed5c38498c4c79b2a68e6f6ed1bb"
-
-    releaseNotes.ignoreCommitsContaining = ["[ci skip]"]
-
-    team.developers = ['szczepiq:Szczepan Faber', 'mstachniuk:Marcin Stachniuk', 'wwilk:Wojtek Wilk']
+    gitHub.repository = 'mockito/shipkit-example'
+    gitHub.readOnlyAuthToken = 'e7fe8fcdd6ffed5c38498c4c79b2a68e6f6ed1bb'
+    gitHub.writeAuthToken = System.getenv('GH_WRITE_TOKEN')
+    team.developers = ['mockitoguy:Szczepan Faber', 'mstachniuk:Marcin Stachniuk', 'wwilk:Wojtek Wilk']
 }
 
 allprojects {
-    plugins.withId("com.jfrog.bintray") {
+    plugins.withId('com.jfrog.bintray') {
+
+        //Bintray configuration is handled by JFrog Bintray Gradle Plugin
+        //See the official documentation: https://github.com/bintray/gradle-bintray-plugin
         bintray {
+
+            //We keep the key hidden behind an environmental variable
+            //That variable is configured in Travis CI repository settings
+            //To see your API key, sign up for free account at https://bintray.com and navigate to your profile
+            key = System.getenv('BINTRAY_API_KEY')
+
             pkg {
                 repo = 'examples'
                 user = 'szczepiq'
-                userOrg = 'shipkit'                
-                name = "basic"
+                userOrg = 'shipkit'
+                name = 'basic'
                 licenses = ['MIT']
                 labels = ['continuous delivery', 'release automation', 'mockito', 'shipkit']
             }
