@@ -9,14 +9,14 @@
 **0.16.6 (2017-07-03)** - no code changes (no commits) - published to [![Bintray](https://img.shields.io/badge/Bintray-0.16.6-green.svg)](https://bintray.com/shipkit/examples/basic/0.16.6)
 
 **0.16.5 (2017-07-02)** - [22 commits](https://github.com/mockito/shipkit-example/compare/v0.16.3...v0.16.5) by 6 authors - published to [![Bintray](https://img.shields.io/badge/Bintray-0.16.5-green.svg)](https://bintray.com/shipkit/examples/basic/0.16.5)
- - Commits: Mockito Release Tools (10), [Maciej Kuster](https://github.com/NagRock) (4), [Marcin Stachniuk](http://github.com/mstachniuk) (4), [Erhard Pointl](https://github.com/epeee) (2), [Szczepan Faber](http://github.com/szczepiq) (1), [Wojtek Wilk](http://github.com/wwilk) (1)
+ - Commits: Mockito Release Tools (10), [Maciej Kuster](https://github.com/NagRock) (4), [Marcin Stachniuk](http://github.com/mstachniuk) (4), [Erhard Pointl](https://github.com/epeee) (2), [Szczepan Faber](http://github.com/mockitoguy) (1), [Wojtek Wilk](http://github.com/wwilk) (1)
  - Change implementation to make a new release [(#59)](https://github.com/mockito/shipkit-example/pull/59)
  - Bumped shipkit [(#58)](https://github.com/mockito/shipkit-example/pull/58)
  - make use of latest shipkit version (v0.8.90) [(#56)](https://github.com/mockito/shipkit-example/pull/56)
  - added default for releaseNotes.ignoreCommitsContaining [(#43)](https://github.com/mockito/shipkit-example/pull/43)
 
 **0.16.4 (2017-07-02)** - [21 commits](https://github.com/mockito/shipkit-example/compare/v0.16.3...v0.16.4) by 5 authors - published to [![Bintray](https://img.shields.io/badge/Bintray-0.16.4-green.svg)](https://bintray.com/shipkit/examples/basic/0.16.4)
- - Commits: Mockito Release Tools (10), [Maciej Kuster](https://github.com/NagRock) (4), [Marcin Stachniuk](http://github.com/mstachniuk) (4), [Erhard Pointl](https://github.com/epeee) (2), [Szczepan Faber](http://github.com/szczepiq) (1)
+ - Commits: Mockito Release Tools (10), [Maciej Kuster](https://github.com/NagRock) (4), [Marcin Stachniuk](http://github.com/mstachniuk) (4), [Erhard Pointl](https://github.com/epeee) (2), [Szczepan Faber](http://github.com/mockitoguy) (1)
  - Change implementation to make a new release [(#59)](https://github.com/mockito/shipkit-example/pull/59)
  - Bumped shipkit [(#58)](https://github.com/mockito/shipkit-example/pull/58)
  - make use of latest shipkit version (v0.8.90) [(#56)](https://github.com/mockito/shipkit-example/pull/56)
@@ -27,7 +27,7 @@
 **0.16.2 (2017-06-08)** - no code changes (no commits) - published to [![Bintray](https://img.shields.io/badge/Bintray-0.16.2-green.svg)](https://bintray.com/shipkit/examples/basic/0.16.2)
 
 **0.16.1 (2017-06-08)** - [36 commits](https://github.com/mockito/shipkit-example/compare/v0.15.2...v0.16.1) by 6 authors - published to [![Bintray](https://img.shields.io/badge/Bintray-0.16.1-green.svg)](https://bintray.com/shipkit/examples/basic/0.16.1)
- - Commits: [Marcin Stachniuk](http://github.com/mstachniuk) (9), Mockito Release Tools (8), [Szczepan Faber](http://github.com/szczepiq) (7), [Wojtek Wilk](http://github.com/wwilk) (5), [Erhard Pointl](https://github.com/epeee) (4), [mkuster](https://github.com/NagRock) (3)
+ - Commits: [Marcin Stachniuk](http://github.com/mstachniuk) (9), Mockito Release Tools (8), [Szczepan Faber](http://github.com/mockitoguy) (7), [Wojtek Wilk](http://github.com/wwilk) (5), [Erhard Pointl](https://github.com/epeee) (4), [mkuster](https://github.com/NagRock) (3)
  - Continuation of renaming from mockito-release-tools into shipkit [(#52)](https://github.com/mockito/shipkit-example/pull/52)
  - Version bumped [(#51)](https://github.com/mockito/shipkit-example/pull/51)
  - Downgrade previous version to 0.15.2 [(#50)](https://github.com/mockito/shipkit-example/pull/50)
@@ -43,7 +43,7 @@
  - make use of mockito-release-tools v0.7.5 and configure commit message [(#28)](https://github.com/mockito/shipkit-example/pull/28)
 
 **0.16.0 (2017-06-06)** - [33 commits](https://github.com/mockito/mockito-release-tools-example/compare/v0.15.2...v0.16.0) by 6 authors - published to [![Bintray](https://img.shields.io/badge/Bintray-0.16.0-green.svg)](https://bintray.com/shipkit/examples/basic/0.16.0)
- - Commits: [Marcin Stachniuk](http://github.com/mstachniuk) (9), Mockito Release Tools (7), [Szczepan Faber](http://github.com/szczepiq) (7), [Wojtek Wilk](http://github.com/wwilk) (5), [Erhard Pointl](https://github.com/epeee) (4), mkuster (1)
+ - Commits: [Marcin Stachniuk](http://github.com/mstachniuk) (9), Mockito Release Tools (7), [Szczepan Faber](http://github.com/mockitoguy) (7), [Wojtek Wilk](http://github.com/wwilk) (5), [Erhard Pointl](https://github.com/epeee) (4), mkuster (1)
  - Version bumped [(#51)](https://github.com/mockito/mockito-release-tools-example/pull/51)
  - Downgrade previous version to 0.15.2 [(#50)](https://github.com/mockito/mockito-release-tools-example/pull/50)
  - Renamed MockitoReleaseTools dependency to Shipkit [(#49)](https://github.com/mockito/mockito-release-tools-example/pull/49)
@@ -58,7 +58,7 @@
  - make use of mockito-release-tools v0.7.5 and configure commit message [(#28)](https://github.com/mockito/mockito-release-tools-example/pull/28)
 
 **0.15.11 (2017-06-06)** - [32 commits](https://github.com/mockito/mockito-release-tools-example/compare/v0.15.2...v0.15.11) by 6 authors - published to [![Bintray](https://img.shields.io/badge/Bintray-0.15.11-green.svg)](https://bintray.com/shipkit/examples/basic/0.15.11)
- - Commits: [Marcin Stachniuk](http://github.com/mstachniuk) (9), Mockito Release Tools (7), [Szczepan Faber](http://github.com/szczepiq) (7), [Erhard Pointl](https://github.com/epeee) (4), [Wojtek Wilk](http://github.com/wwilk) (4), mkuster (1)
+ - Commits: [Marcin Stachniuk](http://github.com/mstachniuk) (9), Mockito Release Tools (7), [Szczepan Faber](http://github.com/mockitoguy) (7), [Erhard Pointl](https://github.com/epeee) (4), [Wojtek Wilk](http://github.com/wwilk) (4), mkuster (1)
  - Downgrade previous version to 0.15.2 [(#50)](https://github.com/mockito/mockito-release-tools-example/pull/50)
  - Renamed MockitoReleaseTools dependency to Shipkit [(#49)](https://github.com/mockito/mockito-release-tools-example/pull/49)
  - Clean up shipkit Gradle plugin names [(#44)](https://github.com/mockito/mockito-release-tools-example/pull/44)
@@ -78,7 +78,7 @@
 **0.15.8 (2017-06-02)** - no code changes (no commits) - published to [![Bintray](https://img.shields.io/badge/Bintray-0.15.8-green.svg)](https://bintray.com/shipkit/examples/basic/0.15.8)
 
 **0.15.7 (2017-06-01)** - [26 commits](https://github.com/mockito/mockito-release-tools-example/compare/v0.15.2...v0.15.7) by 6 authors - published to [![Bintray](https://img.shields.io/badge/Bintray-0.15.7-green.svg)](https://bintray.com/shipkit/examples/basic/0.15.7)
- - Commits: [Marcin Stachniuk](http://github.com/mstachniuk) (7), Mockito Release Tools (7), [Szczepan Faber](http://github.com/szczepiq) (7), [Wojtek Wilk](http://github.com/wwilk) (3), epeee (1), mkuster (1)
+ - Commits: [Marcin Stachniuk](http://github.com/mstachniuk) (7), Mockito Release Tools (7), [Szczepan Faber](http://github.com/mockitoguy) (7), [Wojtek Wilk](http://github.com/wwilk) (3), epeee (1), mkuster (1)
  - Gradle extension name changed from 'releasing' to 'shipkit' [(#42)](https://github.com/mockito/mockito-release-tools-example/pull/42)
  - Bumped version of tools [(#37)](https://github.com/mockito/mockito-release-tools-example/pull/37)
  - Bump release tools version to 0.8.32 [(#35)](https://github.com/mockito/mockito-release-tools-example/pull/35)
@@ -89,7 +89,7 @@
  - make use of mockito-release-tools v0.7.5 and configure commit message [(#28)](https://github.com/mockito/mockito-release-tools-example/pull/28)
 
 **0.15.6 (2017-06-01)** - [25 commits](https://github.com/mockito/mockito-release-tools-example/compare/v0.15.2...v0.15.6) by 6 authors - published to [![Bintray](https://img.shields.io/badge/Bintray-0.15.6-green.svg)](https://bintray.com/shipkit/examples/basic/0.15.6)
- - Commits: [Marcin Stachniuk](http://github.com/mstachniuk) (7), [Szczepan Faber](http://github.com/szczepiq) (7), Mockito Release Tools (6), [Wojtek Wilk](http://github.com/wwilk) (3), epeee (1), mkuster (1)
+ - Commits: [Marcin Stachniuk](http://github.com/mstachniuk) (7), [Szczepan Faber](http://github.com/mockitoguy) (7), Mockito Release Tools (6), [Wojtek Wilk](http://github.com/wwilk) (3), epeee (1), mkuster (1)
  - Gradle extension name changed from 'releasing' to 'shipkit' [(#42)](https://github.com/mockito/mockito-release-tools-example/pull/42)
  - Bumped version of tools [(#37)](https://github.com/mockito/mockito-release-tools-example/pull/37)
  - Bump release tools version to 0.8.32 [(#35)](https://github.com/mockito/mockito-release-tools-example/pull/35)
@@ -122,7 +122,7 @@
 
 * Authors: 1
 * Commits: 9
-  * 9: [Szczepan Faber](https://github.com/szczepiq)
+  * 9: [Szczepan Faber](https://github.com/mockitoguy)
 * Improvements: 1
   * Pulled new version of tools [(#27)](https://github.com/mockito/mockito-release-tools-example/pull/27)
 
@@ -130,7 +130,7 @@
 
 * Authors: 1
 * Commits: 2
-  * 2: [Szczepan Faber](https://github.com/szczepiq)
+  * 2: [Szczepan Faber](https://github.com/mockitoguy)
 * Improvements: 1
   * Fixed the release [(#26)](https://github.com/mockito/mockito-release-tools-example/pull/26)
 
@@ -138,7 +138,7 @@
 
 * Authors: 1
 * Commits: 3
-  * 3: [Szczepan Faber](https://github.com/szczepiq)
+  * 3: [Szczepan Faber](https://github.com/mockitoguy)
 * Improvements: 1
   * Publishing notable versions to separate Bintray package instead of Bintray repo [(#25)](https://github.com/mockito/mockito-release-tools-example/pull/25)
 
@@ -146,7 +146,7 @@
 
 * Authors: 1
 * Commits: 16
-  * 16: [Szczepan Faber](https://github.com/szczepiq)
+  * 16: [Szczepan Faber](https://github.com/mockitoguy)
 * Improvements: 4
   * Picked up new version of tools [(#24)](https://github.com/mockito/mockito-release-tools-example/pull/24)
   * Picked up latest release tools [(#23)](https://github.com/mockito/mockito-release-tools-example/pull/23)
@@ -175,14 +175,14 @@
 
 * Authors: 1
 * Commits: 1
-  * 1: [Szczepan Faber](https://github.com/szczepiq)
+  * 1: [Szczepan Faber](https://github.com/mockitoguy)
 * No notable improvements. See the commits for detailed changes.
 
 ### 0.11.2 (2017-03-25)
 
 * Authors: 1
 * Commits: 2
-  * 2: [Szczepan Faber](https://github.com/szczepiq)
+  * 2: [Szczepan Faber](https://github.com/mockitoguy)
 * Improvements: 1
   * Refactoring: Fixes env var to TERM for readability purpose on travis log when building with gradle [(#19)](https://github.com/mockito/mockito/pull/19)
 
@@ -190,7 +190,7 @@
 
 * Authors: 1
 * Commits: 6
-  * 6: [Szczepan Faber](https://github.com/szczepiq)
+  * 6: [Szczepan Faber](https://github.com/mockitoguy)
 * Improvements: 1
   * Enabled continuous integration with Travis CI and coverage tracking with coveralls [(#18)](https://github.com/mockito/mockito/pull/18)
 
@@ -198,7 +198,7 @@
 
 * Authors: 1
 * Commits: 5
-  * 5: [Szczepan Faber](https://github.com/szczepiq)
+  * 5: [Szczepan Faber](https://github.com/mockitoguy)
 * Improvements: 1
   * Fix for problem with classloaders on Eclipse plugins tests. [(#17)](https://github.com/mockito/mockito/pull/17)
 
@@ -206,7 +206,7 @@
 
 * Authors: 1
 * Commits: 3
-  * 3: [Szczepan Faber](https://github.com/szczepiq)
+  * 3: [Szczepan Faber](https://github.com/mockitoguy)
 * Improvements: 1
   * Adds an after() method, which acts like timeout() but does not immediately return if the test passes [(#16)](https://github.com/mockito/mockito/pull/16)
 
@@ -214,7 +214,7 @@
 
 * Authors: 1
 * Commits: 5
-  * 5: [Szczepan Faber](https://github.com/szczepiq)
+  * 5: [Szczepan Faber](https://github.com/mockitoguy)
 * Improvements: 1
   * Verification with timout measures time more more accurately [(#15)](https://github.com/mockito/mockito/pull/15)
 
@@ -222,7 +222,7 @@
 
 * Authors: 1
 * Commits: 12
-  * 12: [Szczepan Faber](https://github.com/szczepiq)
+  * 12: [Szczepan Faber](https://github.com/mockitoguy)
 * Improvements: 3
   * Deprecated timeout().never(), in line with timeout().atMost() [(#14)](https://github.com/mockito/mockito/pull/14)
   * Refactoring: Remove old Hg artifacts [(#13)](https://github.com/mockito/mockito/pull/13)
